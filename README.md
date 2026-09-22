@@ -29,16 +29,13 @@ Welcome to my GitHub profile! I am a passionate developer currently expanding my
 
 * **Gmail:** [github.com/YOUR_GITHUB_USERNAME or gmail](saadahmedrajpoot04@gmail.com)
 * **Contact me on WathsApp:***(+92-3181219765)
-
+_Feel free to contact me about learning,or discussing me about coding, I'd love to help you_.
 ---
 
 *Feel free to explore my repositories and watch my journey as I code, learn, and grow!*
 
 ---
 
-**Tip:** Before adding this to your profile, make sure to replace `YOUR_GITHUB_USERNAME` with your actual GitHub username so the stats badge works properly!
-
-Would you like to tweak any sections, add specific computer courses you've taken, or include anything else?
 
 <!--
 **Saadahmed-wq/Saadahmed-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
