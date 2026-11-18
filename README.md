@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I am a passionate developer currently expanding my
 
 ### 📬 Connect With Me
 
-* **Gmail:** [github.com/YOUR_GITHUB_USERNAME or gmail](saadahmedrajpoot04@gmail.com)
+* **Github:** https://github.com/Saadahmed-wq /gmail(saadahmedrajpoot04@gmail.com)
 * **Contact me on WathsApp:***(+92-3181219765)
 _Feel free to contact me about learning,or discussing me about coding, I'd love to help you_.
 ---
